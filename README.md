@@ -15,3 +15,4 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+Виконала: Зощак Тетяна 
